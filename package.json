@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "serverless": "serverless",
+    "deploy": "serverless deploy --aws-profile blaue-nacht-technical"
+  },
+  "dependencies": {
+    "serverless": "^1.73.1"
+  }
+}
