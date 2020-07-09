@@ -1,0 +1,2 @@
+go get -v all
+go mod vendor
